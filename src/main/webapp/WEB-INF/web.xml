@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>FirstServlet</servlet-name>
-        <servlet-class> com.geekbrains.spring1.FirstServlet </servlet-class>
+        <servlet-class>com.geekbrains.spring1.FirstServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
